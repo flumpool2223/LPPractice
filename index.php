@@ -243,7 +243,7 @@
             <div class="line"></div>
             <p class="en_title">reservation</p>
         </div>
-        <p class="reservation_text">「楽園雅苑 - 桜庭温泉の隠れ家 -」へのご予約、心よりお待ちしております。お手数をおかけいたしますが、以下のフォームに必要事項をご記入の上、ご送信ください。</p>
+        <p class="reservation_text">「楽園雅苑 - 桜庭温泉の隠れ家 -」へのご予約、心よりお待ちしております。<br>お手数をおかけいたしますが、以下のフォームに必要事項をご記入の上、ご送信ください。</p>
         <form action="./confirm.php" novalidate method="post">
             <div class="flex_center form_content">
                 <p>お名前<span>＊</span></p>
